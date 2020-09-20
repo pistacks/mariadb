@@ -14,3 +14,9 @@ $ docker run --rm -it -p 3307:3306 \
 ```
 
 For more options look at [github.com/yobasystems/alpine-mariadb](https://github.com/yobasystems/alpine-mariadb)
+
+## Docker Hub
+
+Image available at:
+
+- [pistacks/mariadb](https://hub.docker.com/r/pistacks/mariadb)
